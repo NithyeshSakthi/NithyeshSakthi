@@ -2,12 +2,12 @@
 
 **Data Engineer** with 5+ years of experience building scalable data pipelines and analytics-ready data products in the Banking and Insurance sector.
 
-- 🔭 Currently working on analytics engineering side projects using **dbt + Snowflake**
-- 🌱 Pursuing an **MSc in AI, Data Science and Digital Business** at GISMA University of Applied Sciences, Potsdam (2024–2026)
-- 💼 5+ years building high-volume transactional data pipelines for clients including **Standard Chartered Bank** and **BNP Paribas Cardif**
-- ⚙️ Specialized in **ETL/ELT pipeline design, data lake architecture, and data quality frameworks**
-- 📍 Based in Leipzig, Germany
-- 📫 Reach me at **nithyeshsakthi@gmail.com**
+-  Currently working on analytics engineering side projects using **dbt + Snowflake**
+-  Pursuing an **MSc in AI, Data Science and Digital Business** at GISMA University of Applied Sciences, Potsdam (2024–2026)
+-  5+ years building high-volume transactional data pipelines for clients including **Standard Chartered Bank** and **BNP Paribas Cardif**
+-  Specialized in **ETL/ELT pipeline design, data lake architecture, and data quality frameworks**
+-  Based in Leipzig, Germany
+-  Reach me at **nithyeshsakthi@gmail.com**
 
 ---
 
