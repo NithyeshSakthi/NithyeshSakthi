@@ -11,7 +11,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 
@@ -55,13 +55,14 @@
 
 ---
 
-### 📌 Featured Project
+###  Featured Project
 
-**[Airbnb Analytics Platform](#)** — An end-to-end analytics engineering project using dbt, Snowflake, and Preset. Implements a four-layer data lake pattern (Transient → Raw → Curated → Consumption), dbt data quality tests, documentation, and SCD tracking via snapshots.
+**[Airbnb Analytics Platform](https://github.com/NithyeshSakthi/airbnb)** — An end-to-end analytics engineering project using dbt, Snowflake, and Preset. Implements a four-layer data lake pattern (Transient → Raw → Curated → Consumption), dbt data quality tests, documentation, and SCD tracking via snapshots.
 
+**[data-warehouse-project-sql](https://github.com/NithyeshSakthi/data-warehouse-project-sql)** — An complete End to End project for Data Engineering & Analysis purpose for the E-Commerce Auto sales company using AWS S3, Data Bricks SQL warehouse and Unity Catalog
 ---
 
-### 🌐 Languages
+###  Languages
 English (Fluent) · German (Basic) · Tamil (Native)
 
 ---
