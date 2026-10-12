@@ -57,7 +57,7 @@
 
 ###  Featured Project
 
-**[Airbnb Analytics Platform]([https://github.com/NithyeshSakthi/airbnb](https://github.com/NithyeshSakthi/ELT_youtube))** —Developed a YouTube Data Engineering pipeline using Python, YouTube API ingestion, layered storage, and Airflow‑based orchestration. 
+**[Airbnb Analytics Platform]([https://github.com/NithyeshSakthi/airbnb](https://github.com/NithyeshSakthi/ELT_youtube)** —Developed a YouTube Data Engineering pipeline using Python, YouTube API ingestion, layered storage, and Airflow‑based orchestration. 
 
 **[Airbnb Analytics Platform](https://github.com/NithyeshSakthi/airbnb)** — An end-to-end analytics engineering project using dbt, Snowflake, and Preset. Implements a four-layer data lake pattern (Transient → Raw → Curated → Consumption), dbt data quality tests, documentation, and SCD tracking via snapshots.
 
