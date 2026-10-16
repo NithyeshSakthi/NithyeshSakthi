@@ -6,7 +6,7 @@
 -  Pursuing an **MSc in AI, Data Science and Digital Business** at GISMA University of Applied Sciences, Potsdam (2024–2026)
 -  5+ years building high-volume transactional data pipelines for clients including **Standard Chartered Bank** and **BNP Paribas Cardif**
 -  Specialized in **ETL/ELT pipeline design, data lake architecture, and data quality frameworks**
--  Based in Leipzig, Germany
+-  Based in Berlin, Germany
 -  Reach me at **nithyeshsakthi@gmail.com**
 
 ---
